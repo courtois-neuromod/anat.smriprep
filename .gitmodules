@@ -1,4 +1,4 @@
 [submodule "sourcedata"]
-	path = sourcedata
+	path = sourcedata/raw
 	url = git@github.com:courtois-neuromod/anat.git
 	datalad-id = b376774c-889d-11ea-b60e-3ea8d101da1a
