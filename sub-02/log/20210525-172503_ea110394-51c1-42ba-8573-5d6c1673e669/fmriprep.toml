@@ -1,0 +1,89 @@
+[environment]
+cpu_count = 40
+exec_env = "singularity"
+free_mem = 119.3
+overcommit_policy = "heuristic"
+overcommit_limit = "50%"
+nipype_version = "1.5.1"
+templateflow_version = "0.6.3"
+version = "20.2.1"
+
+[execution]
+bids_dir = "/lustre03/project/6003287/datasets/cneuromod_processed/smriprep/sourcedata/raw"
+bids_database_dir = "/lustre03/project/6003287/datasets/cneuromod_processed/smriprep/sourcedata/raw/.pybids_cache"
+bids_description_hash = "01107456dff650a37df4e64b57e09faa6e941026c5fa3a4322c429cf840593e3"
+boilerplate_only = false
+sloppy = false
+debug = []
+fmriprep_dir = "/lustre03/project/6003287/datasets/cneuromod_processed/smriprep"
+fs_license_file = "/home/bpinsard/.freesurfer.txt"
+fs_subjects_dir = "/lustre03/project/6003287/datasets/cneuromod_processed/smriprep/sourcedata/freesurfer"
+layout = "BIDS Layout: ...cessed/smriprep/sourcedata/raw | Subjects: 6 | Sessions: 12 | Runs: 10"
+log_dir = "/lustre03/project/6003287/datasets/cneuromod_processed/smriprep/logs"
+log_level = 25
+low_mem = false
+md_only_boilerplate = false
+notrack = false
+output_dir = "/lustre03/project/6003287/datasets/cneuromod_processed/smriprep"
+output_layout = "bids"
+output_spaces = "MNI152NLin2009cAsym:res-native MNI152NLin6Asym:res-native"
+reports_only = false
+run_uuid = "20210525-172503_ea110394-51c1-42ba-8573-5d6c1673e669"
+participant_label = [ "02",]
+templateflow_home = "/templateflow"
+work_dir = "/work"
+write_graph = true
+
+[workflow]
+anat_only = true
+aroma_err_on_warn = false
+aroma_melodic_dim = -200
+bold2t1w_dof = 6
+bold2t1w_init = "register"
+cifti_output = "91k"
+fmap_bspline = false
+force_syn = false
+hires = true
+ignore = []
+longitudinal = false
+medial_surface_nan = false
+regressors_all_comps = false
+regressors_dvars_th = 1.5
+regressors_fd_th = 0.5
+run_reconall = true
+skull_strip_fixed_seed = false
+skull_strip_template = "OASIS30ANTs"
+skull_strip_t1w = "force"
+spaces = "MNI152NLin2009cAsym:res-native MNI152NLin6Asym:res-native fsaverage:den-164k MNI152NLin6Asym:res-2"
+use_aroma = false
+use_syn_sdc = false
+
+[nipype]
+crashfile_format = "txt"
+get_linked_libs = false
+memory_gb = 65.536
+nprocs = 16
+omp_nthreads = 8
+plugin = "MultiProc"
+resource_monitor = false
+stop_on_first_crash = false
+
+[seeds]
+master = 50398
+ants = 16584
+
+[nipype.plugin_args]
+maxtasksperchild = 1
+raise_insufficient = false
+
+[execution.bids_filters.t1w]
+reconstruction = "<Query.NONE: 1>"
+acquisition = "<Query.NONE: 1>"
+session = [ "001", "002",]
+
+[execution.bids_filters.t2w]
+reconstruction = "<Query.NONE: 1>"
+acquisition = "<Query.NONE: 1>"
+session = [ "001", "002",]
+
+[execution.bids_filters.bold]
