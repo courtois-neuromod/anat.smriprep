@@ -4,5 +4,5 @@
 	datalad-id = b376774c-889d-11ea-b60e-3ea8d101da1a
 [submodule "sourcedata/freesurfer"]
 	path = sourcedata/freesurfer
-	url = ./sourcedata/freesurfer
+	url = git@github.com:courtois-neuromod/anat.freesurfer.git
 	datalad-id = e91589e2-3533-4b78-9bd2-660e2cc26a59
