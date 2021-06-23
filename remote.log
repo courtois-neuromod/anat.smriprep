@@ -1,0 +1,1 @@
+cc90be62-1422-4ab2-a2fe-53f947789ac2 autoenable=true bucket=cneuromod.anat.smriprep chunk=1GiB datacenter=US encryption=none exporttree=no host=s3.unf-montreal.ca name=s3unf.cneuromod.anat.smriprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1624453296.386895s
