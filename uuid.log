@@ -1,11 +1,17 @@
 13fca266-fbe2-4ccb-b294-e2f6310e1f9e bpinsard@narval2.narval.calcul.quebec:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/hcptrt/sourcedata/smriprep timestamp=1643134946.884308819s
+144d253e-4e21-4b7e-ba6c-c9fd0fc0bf64 bpinsard@bc11910.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335141.0/smriprep_sub03.job timestamp=1666014099.155814939s
 230abbbc-4b7e-4f02-9d57-a9d5a23d0d10 bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/smriprep timestamp=1621519558.33821s
 32979310-d1f7-4d59-b3b9-fe0e9abd137a bpinsard@narval2.narval.calcul.quebec:/lustre07/scratch/bpinsard/hcptrt.fmriprep/sourcedata/smriprep timestamp=1648752809.272884805s
 47178ba8-d392-45f9-b3ea-2356b23b4240 bpinsard@beluga6.int.ets1.calculquebec.ca:/lustre04/scratch/bpinsard/cneuromod.processed/smriprep timestamp=1639773200.267020774s
 5a1ed4c0-0a6b-4f5a-bdbf-dde9c6b3c4e1 bpinsard@narval2.narval.calcul.quebec:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/gamepad/sourcedata/smriprep timestamp=1644960308.903055646s
+610b87d5-e13f-4604-a06f-6ff5dc727ee4 bpinsard@bc21109.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335140.0/smriprep_sub02.job timestamp=1666014076.640245641s
 78ad689e-2cb8-46e0-9aba-c708a2926222 ria-narval-storage timestamp=1639078693.079840185s
+7b8ecf6a-c905-43f5-9eac-1b64f5b87896 bpinsard@bc12236.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335145.0/smriprep_sub05.job timestamp=1666014118.73949263s
+7ba6dc19-0519-4167-9fc4-dc48c1afdc33 bpinsard@bc11956.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335143.0/smriprep_sub04.job timestamp=1666014022.829497924s
+92714573-5bcb-4588-918f-165415aa207f bpinsard@bc12034.int.ets1.calculquebec.ca:/localscratch/bpinsard.32324814.0/smriprep_sub01.job timestamp=1665945976.709282s
 b348b5a9-cf88-48da-95d4-d5abe43e61ec ria-narval-storage timestamp=1640966264.865015716s
 b6637e42-11b9-4198-9ace-9a1432915c75 ria-beluga-storage timestamp=1634609293.187546847s
+c87cbd7a-a912-44e8-a887-21be64760201 bpinsard@bc12236.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335147.0/smriprep_sub06.job timestamp=1666014135.68808455s
 cc90be62-1422-4ab2-a2fe-53f947789ac2 s3unf.cneuromod.anat.smriprep timestamp=1624453296.316188s
 cdb07cc7-c23f-492d-b1a4-f39bb7443a71 bpinsard@bc11912.int.ets1.calculquebec.ca:/localscratch/bpinsard.32315391.0/smriprep_sub01.job timestamp=1665887620.508295863s
 ebff78ad-fb22-405a-849b-5f8a4fb63e73 bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/harrypotter/sourcedata/smriprep timestamp=1621648694.764603s
