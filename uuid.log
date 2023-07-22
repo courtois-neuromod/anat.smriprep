@@ -26,6 +26,7 @@ b6637e42-11b9-4198-9ace-9a1432915c75 ria-beluga-storage timestamp=1634609293.187
 c87cbd7a-a912-44e8-a887-21be64760201 bpinsard@bc12236.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335147.0/smriprep_sub06.job timestamp=1666014135.68808455s
 cc90be62-1422-4ab2-a2fe-53f947789ac2 s3unf.cneuromod.anat.smriprep timestamp=1624453296.316188s
 cdb07cc7-c23f-492d-b1a4-f39bb7443a71 bpinsard@bc11912.int.ets1.calculquebec.ca:/localscratch/bpinsard.32315391.0/smriprep_sub01.job timestamp=1665887620.508295863s
+e1113f3c-329c-44dc-a61c-52ecb6cfc2e6 basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/fmriprep/shinobi/sourcedata/smriprep timestamp=1690050276.412349842s
 ebff78ad-fb22-405a-849b-5f8a4fb63e73 bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/harrypotter/sourcedata/smriprep timestamp=1621648694.764603s
 f0530ad5-4e6a-4edd-9f3f-ace96da72ece basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/smriprep timestamp=1689993097.019193896s
 fbaf37da-e92f-491d-bc32-22938e632230 basile@criugm0277:~/data/tests/anat.smriprep timestamp=1669737532.394397158s
