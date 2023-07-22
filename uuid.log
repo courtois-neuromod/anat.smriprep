@@ -1,6 +1,7 @@
 13fca266-fbe2-4ccb-b294-e2f6310e1f9e bpinsard@narval2.narval.calcul.quebec:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/hcptrt/sourcedata/smriprep timestamp=1643134946.884308819s
 144d253e-4e21-4b7e-ba6c-c9fd0fc0bf64 bpinsard@bc11910.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335141.0/smriprep_sub03.job timestamp=1666014099.155814939s
 166b6ad3-1c3b-4319-bd8a-6566457863a6 basile@criugm0277:~/data/projects/qc/cneuromod.anat.smriprep timestamp=1644422399.140894425s
+1e4d9302-debb-4827-8887-897f6e72b59e basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/smriprep timestamp=1689993286.909585148s
 230abbbc-4b7e-4f02-9d57-a9d5a23d0d10 bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/smriprep timestamp=1621519558.33821s
 23d9f187-3265-47e6-af20-87630e10ae18 basile@criugm0277:~/data/tests/anat.smriprep timestamp=1669737441.999985277s
 25445a9a-d761-42de-911c-40ed1fc61fb9 ria-sequoia-storage timestamp=1666293371.120292884s
