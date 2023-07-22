@@ -7,6 +7,7 @@
 23d9f187-3265-47e6-af20-87630e10ae18 basile@criugm0277:~/data/tests/anat.smriprep timestamp=1669737441.999985277s
 25445a9a-d761-42de-911c-40ed1fc61fb9 ria-sequoia-storage timestamp=1666293371.120292884s
 32979310-d1f7-4d59-b3b9-fe0e9abd137a bpinsard@narval2.narval.calcul.quebec:/lustre07/scratch/bpinsard/hcptrt.fmriprep/sourcedata/smriprep timestamp=1648752809.272884805s
+3d4f01a5-98cf-4c59-9fef-ea2b0166f2a4 basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/fmriprep/harrypotter/sourcedata/smriprep timestamp=1690050213.563747007s
 4109c906-3909-47b4-8917-dd7bde68d208 bpinsard@elm.criugm.qc.ca:/scratch/basile/cneuromod.processed/fmriprep/harrypotter/sourcedata/smriprep timestamp=1689945245.254081748s
 47178ba8-d392-45f9-b3ea-2356b23b4240 bpinsard@beluga6.int.ets1.calculquebec.ca:/lustre04/scratch/bpinsard/cneuromod.processed/smriprep timestamp=1639773200.267020774s
 49d4b729-1c64-4934-8e09-4c33c5700c9a conp-ria-storage timestamp=1688565900.604160491s
