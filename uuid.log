@@ -2,6 +2,7 @@
 144d253e-4e21-4b7e-ba6c-c9fd0fc0bf64 bpinsard@bc11910.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335141.0/smriprep_sub03.job timestamp=1666014099.155814939s
 166b6ad3-1c3b-4319-bd8a-6566457863a6 basile@criugm0277:~/data/projects/qc/cneuromod.anat.smriprep timestamp=1644422399.140894425s
 16721ab6-2cd3-4720-9b0f-b995baa75478 basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/fmriprep/harrypotter/sourcedata/smriprep timestamp=1689993613.25988535s
+1d351a5d-6760-4069-94fa-4b2370939ec2 basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/fmriprep/friends/sourcedata/smriprep timestamp=1690050196.838487503s
 1e4d9302-debb-4827-8887-897f6e72b59e basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/smriprep timestamp=1689993286.909585148s
 230abbbc-4b7e-4f02-9d57-a9d5a23d0d10 bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/smriprep timestamp=1621519558.33821s
 23d9f187-3265-47e6-af20-87630e10ae18 basile@criugm0277:~/data/tests/anat.smriprep timestamp=1669737441.999985277s
@@ -25,6 +26,7 @@ b348b5a9-cf88-48da-95d4-d5abe43e61ec ria-narval-storage timestamp=1640966264.865
 b6637e42-11b9-4198-9ace-9a1432915c75 ria-beluga-storage timestamp=1634609293.187546847s
 c87cbd7a-a912-44e8-a887-21be64760201 bpinsard@bc12236.int.ets1.calculquebec.ca:/localscratch/bpinsard.32335147.0/smriprep_sub06.job timestamp=1666014135.68808455s
 cc90be62-1422-4ab2-a2fe-53f947789ac2 s3unf.cneuromod.anat.smriprep timestamp=1624453296.316188s
+cd64ed48-e764-4382-b632-be94f4dbc46a basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/smriprep timestamp=1690050087.566224556s
 cdb07cc7-c23f-492d-b1a4-f39bb7443a71 bpinsard@bc11912.int.ets1.calculquebec.ca:/localscratch/bpinsard.32315391.0/smriprep_sub01.job timestamp=1665887620.508295863s
 e1113f3c-329c-44dc-a61c-52ecb6cfc2e6 basile@criugm0277:~/data/tests/cneuromod.procesed_conp_deploy/fmriprep/shinobi/sourcedata/smriprep timestamp=1690050276.412349842s
 ebff78ad-fb22-405a-849b-5f8a4fb63e73 bpinsard@beluga1.int.ets1.calculquebec.ca:/lustre03/project/6003287/datasets/cneuromod_processed/fmriprep/harrypotter/sourcedata/smriprep timestamp=1621648694.764603s
