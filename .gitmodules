@@ -2,7 +2,9 @@
 	path = sourcedata/raw
 	url = git@github.com:courtois-neuromod/anat.git
 	datalad-id = b376774c-889d-11ea-b60e-3ea8d101da1a
+	datalad-url = https://github.com/courtois-neuromod/anat
 [submodule "sourcedata/freesurfer"]
 	path = sourcedata/freesurfer
 	url = git@github.com:courtois-neuromod/anat.freesurfer.git
 	datalad-id = e91589e2-3533-4b78-9bd2-660e2cc26a59
+	datalad-url = https://github.com/courtois-neuromod/anat.freesurfer
